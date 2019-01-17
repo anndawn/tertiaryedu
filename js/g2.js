@@ -779,7 +779,7 @@ objchart2.push(arr);
 }
     options = {
       legend: {
-        padding:10,
+        padding:12,
         right:"10%",
         data:['Benin','Côte dIvoire','Ghana','Guinea','','Liberia','Nigeria','Togo'],
         textStyle:{
