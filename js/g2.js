@@ -783,7 +783,8 @@ objchart2.push(arr);
         right:"10%",
         data:['Benin','Côte dIvoire','Ghana','Guinea','','Liberia','Nigeria','Togo'],
         textStyle:{
-            fontSize:10}
+            fontSize:10},
+        itemGap:16
     },
     grid:{
       x:20,
