@@ -784,7 +784,7 @@ options = {
     itemGap:16
 },
 grid:{
-  x:75,
+  x:80,
   y:50
 },
   tooltip: {
