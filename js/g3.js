@@ -1070,7 +1070,7 @@ console.log(keyschart30);
         right:"3%",
         itemWidth:15,
         padding:5,
-        itemGap:5,
+        itemGap:10,
         textStyle: {
            fontSize: 9
         }
