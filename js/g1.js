@@ -775,7 +775,7 @@ console.log(keys);
 console.log(ar);
 options = {
   legend: {
-    padding:10,
+    padding:12,
     right:"10%",
     data:['Benin','Côte dIvoire','Ghana','Guinea','','Liberia','Nigeria','Togo'],
     // ["Benin", "Côte d'Ivoire", "Ghana", "Guinea",'',"Liberia", "Nigeria", "Togo"]
