@@ -780,7 +780,8 @@ options = {
     data:['Benin','Côte dIvoire','Ghana','Guinea','','Liberia','Nigeria','Togo'],
     // ["Benin", "Côte d'Ivoire", "Ghana", "Guinea",'',"Liberia", "Nigeria", "Togo"]
     textStyle:{
-        fontSize:10}
+        fontSize:10},
+    itemGap:16
 },
 grid:{
   x:62,
