@@ -1062,7 +1062,8 @@ legend: {
         // ["Benin", "Côte d'Ivoire", "Ghana", "Guinea",'',"Liberia", "Nigeria", "Togo"]
         textStyle:{
             fontSize:10},
-        padding:12
+        padding:12,
+        itemGap:15
       
 },
 grid: {
