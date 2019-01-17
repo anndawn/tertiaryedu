@@ -794,7 +794,8 @@ objchart2.push(arr);
     },
       xAxis: {
           type: 'category',
-          data: archart2
+          data: archart2,
+          offset:5
       },
       yAxis: {
           type: 'value'
