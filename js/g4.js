@@ -1063,7 +1063,7 @@ legend: {
         textStyle:{
             fontSize:10},
         padding:12,
-        itemGap:15
+        itemGap:16
       
 },
 grid: {
