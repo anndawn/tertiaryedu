@@ -775,7 +775,7 @@ console.log(keys);
 console.log(ar);
 options = {
   legend: {
-    padding:12,
+    padding:10,
     right:"10%",
     data:['Benin','Côte dIvoire','Ghana','Guinea','','Liberia','Nigeria','Togo'],
     // ["Benin", "Côte d'Ivoire", "Ghana", "Guinea",'',"Liberia", "Nigeria", "Togo"]
@@ -784,7 +784,7 @@ options = {
     itemGap:16
 },
 grid:{
-  x:62,
+  x:72,
   y:50
 },
   tooltip: {
