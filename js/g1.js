@@ -791,7 +791,8 @@ grid:{
 },
   xAxis: {
       type: 'category',
-      data: ar
+      data: ar,
+      offset:5
   },
   yAxis: {
       type: 'value'
